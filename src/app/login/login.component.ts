@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { LoginService } from '../Auth/login.service';
 
 @Component({
-  selector: 'app-ruta',
+  selector: 'app-ruta',  // esta linea de codigo delata que lo copiaste y modificaste, tu componente es login pero tu selector dice ruta......
   templateUrl: './login.component.html',
   styleUrls: ['./login.component.css']
 })
